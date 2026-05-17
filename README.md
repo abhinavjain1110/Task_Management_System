@@ -96,20 +96,6 @@ src/
 
 ## Deployment
 
-### Vercel (recommended)
-
-1. Push code to GitHub
-2. Import repo at [vercel.com/new](https://vercel.com/new)
-3. Framework preset: **Vite**
-4. Deploy — no extra config needed
-
-### Netlify
-
-```bash
-npm run build
-# Publish directory: dist
-```
-
 ### GitHub Pages
 
 Add to `vite.config.ts`:

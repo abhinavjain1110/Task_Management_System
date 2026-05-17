@@ -4,9 +4,9 @@ A polished, feature-rich task management application built with **React**, **Typ
 
 ## Live Demo
 
-> Deploy to [Vercel](https://vercel.com), [Netlify](https://netlify.com), or [GitHub Pages](https://pages.github.com) and add your URL here.
+**Live**: https://abhinavjain1110.github.io/Task_Management_System/
 
-Example: `https://your-app.vercel.app`
+![FocusGrid Demo](./public/Project%20Demo.png)
 
 ## Features
 
@@ -123,14 +123,6 @@ export default defineConfig({
 
 Then use GitHub Actions or `gh-pages` to deploy the `dist` folder.
 
-## Screenshots
-
-Add screenshots to the `docs/` folder after running the app locally:
-- Dashboard (light mode)
-- Dashboard (dark mode)
-- Card view
-- Edit modal
-- Mobile layout
 
 ## License
 

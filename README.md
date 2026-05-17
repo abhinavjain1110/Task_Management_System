@@ -3,10 +3,7 @@
 A polished, feature-rich task management application built with **React**, **TypeScript**, and **Vite**. Create, edit, delete, filter, and track tasks with persistent storage, responsive design, and bonus features including card view, dark/light mode, and drag-and-drop reordering.
 
 ## Live Demo
-
-> Deploy to [Vercel](https://vercel.com), [Netlify](https://netlify.com), or [GitHub Pages](https://pages.github.com) and add your URL here.
-
-Example: `https://your-app.vercel.app`
+https://abhinavjain1110.github.io/Task_Management_System/
 
 ## Features
 
@@ -96,20 +93,6 @@ src/
 
 ## Deployment
 
-### Vercel (recommended)
-
-1. Push code to GitHub
-2. Import repo at [vercel.com/new](https://vercel.com/new)
-3. Framework preset: **Vite**
-4. Deploy — no extra config needed
-
-### Netlify
-
-```bash
-npm run build
-# Publish directory: dist
-```
-
 ### GitHub Pages
 
 Add to `vite.config.ts`:
@@ -125,10 +108,7 @@ Then use GitHub Actions or `gh-pages` to deploy the `dist` folder.
 
 ## Screenshots
 
-Add screenshots to the `docs/` folder after running the app locally:
-- Dashboard (light mode)
-- Dashboard (dark mode)
-- Card view
+
 - Edit modal
 - Mobile layout
 
